@@ -6,9 +6,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 [Juncture home page](https://www.juncture-digital.org/)
 
 ## Implement
-### Subject Heading Prediction based on the BERT Model
-
-
+<h3 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h3>
 
 ## Aulacophora indica
 
