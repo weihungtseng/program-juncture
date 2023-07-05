@@ -16,9 +16,14 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <h4 style="text-align: center;">National Taiwan Normal University</h4>
 <br>
 <h3 style="text-align: center;">Motivation</h3>
-<p>
-    Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
-</p>
+
+Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
+
+<br>
+<h3 style="text-align: center;">Problem to be solved</h3>
+
+To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the BERT distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.”
+
 
 
 
