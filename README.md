@@ -7,6 +7,10 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 
 ## Implement
 <h3 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h3>
+<h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
+<h4 style="text-align: center;">National Taiwan Normal University</h4>
+
+
 
 ## Aulacophora indica
 
