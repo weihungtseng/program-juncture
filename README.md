@@ -2,6 +2,10 @@
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
+## Official tutorial
+[juncture home page](https://www.juncture-digital.org/)
+
+
 ## Aulacophora indica
 
 .ve-media wc:The_Bug_Peek.jpg right
