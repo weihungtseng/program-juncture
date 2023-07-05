@@ -16,7 +16,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <br>
 <details style="border: 1px solid #000; padding: 10px; background-color: #DFECFF;">
   <summary><h3 style="text-align: center;">Motivation</h3></summary>
-  <p style="border: 1px solid #000; padding: 10px;">Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
+  <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
 </details>
 
 
