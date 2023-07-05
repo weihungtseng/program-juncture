@@ -8,7 +8,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <br><br>
 
 ## Implement : ALA Annual Conference 2023 - Poster
-<br><br>
+<br>
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
 <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
@@ -16,14 +16,12 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <h4 style="text-align: center;">National Taiwan Normal University</h4>
 <br>
 <details>
-  <summary>点击展开/收起</summary>
-
-  这是要隐藏或显示的内容。
-
+  <summary><h3 style="text-align: center;">Motivation</h3></summary>
+    Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
 </details>
-<h3 style="text-align: center;">Motivation</h3>
 
-Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
+
+
 
 <br>
 <h3 style="text-align: center;">Problem to be solved</h3>
