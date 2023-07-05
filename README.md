@@ -15,6 +15,12 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
 <h4 style="text-align: center;">National Taiwan Normal University</h4>
 <br>
+<details>
+  <summary>点击展开/收起</summary>
+
+  这是要隐藏或显示的内容。
+
+</details>
 <h3 style="text-align: center;">Motivation</h3>
 
 Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
