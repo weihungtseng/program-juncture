@@ -1,9 +1,9 @@
 # Hello, Juncture
 
-This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay
+This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 
 ## Official tutorial
-[juncture home page](https://www.juncture-digital.org/)
+[Juncture home page](https://www.juncture-digital.org/)
 
 
 ## Aulacophora indica
