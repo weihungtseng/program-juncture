@@ -10,7 +10,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 ## Implement : ALA Annual Conference 2023 - Poster
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
-<div style="padding: 10px; background-color: #FFCE9C;">
+<div style="padding: 10px; background-color: #0ABAB5;">
     <br>
     <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
     <h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
