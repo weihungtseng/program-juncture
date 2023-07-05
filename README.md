@@ -8,7 +8,6 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <br><br>
 
 ## Implement : ALA Annual Conference 2023 - Poster
-<br>
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
 <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
