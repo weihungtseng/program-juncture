@@ -11,6 +11,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
 <div style="background-color: #E1E1E1;">
+    <br>
     <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
     <h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
     <h4 style="text-align: center;">National Taiwan Normal University</h4>
@@ -24,6 +25,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
           <summary><h3 style="text-align: center;">Problem to be solved</h3></summary>
           <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the BERT distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
     </details>
+    <br>
 </div>
 
 
