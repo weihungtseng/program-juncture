@@ -10,7 +10,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 ## Implement : ALA Annual Conference 2023 - Poster
 <style>
     .textColor1 {
-        color: #0096EC;
+        color: #007AC0;
     }
 </style>
 
