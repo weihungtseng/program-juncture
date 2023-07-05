@@ -8,6 +8,12 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <br><br>
 
 ## Implement : ALA Annual Conference 2023 - Poster
+<style>
+    .textColor1 {
+        color: #0096EC;
+    }
+</style>
+
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
 <!--
@@ -15,7 +21,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 -->
 <div style="padding: 10px; background-color: #9ACEEB;">
     <br>
-    <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
+    <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
     <h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
     <h4 style="text-align: center;">National Taiwan Normal University</h4>
     <br>
