@@ -1,14 +1,24 @@
 # Hello, Juncture
 
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
+<br><br>
 
 ## Official tutorial
 [Juncture home page](https://www.juncture-digital.org/)
+<br><br>
 
-## Implement
+## Implement : ALA Annual Conference 2023 - Poster
+<br><br>
+.ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
+
 <h1 style="text-align: center;">Subject Heading Prediction based on the BERT Model</h1>
 <h4 style="text-align: center;">Huei-Yu Wang, Wei-Hung Tseng, Yu-Hao Lai, Ming-Hsin Phoebe Chiu</h4>
 <h4 style="text-align: center;">National Taiwan Normal University</h4>
+<br>
+<h3 style="text-align: center;">Motivation</h3>
+<p>
+    Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
+</p>
 
 
 
