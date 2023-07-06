@@ -13,7 +13,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         color: #0D00C0;
     }
     
-    table, td {
+    table tr, td {
         border: hidden;
     }
 </style>
