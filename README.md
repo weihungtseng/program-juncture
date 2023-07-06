@@ -19,7 +19,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         height: 20%;
     }
     
-    table th, tr, td {
+    table tr, td {
         border: hidden;
     }
 </style>
