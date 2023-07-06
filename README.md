@@ -52,6 +52,8 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <details style="border: 1px solid #000; padding: 10px; background-color: #DFECFF;">
         <summary><h3 style="text-align: center;">Procedure</h3></summary>
         <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">After analyzing the dataset, we found that there are 191,478 usable data entries. Each entry has at least one subject keyword, with a total of 66,548 subject keywords distributed among them. The subject keyword with the highest frequency appears 5,085 times, while the subject keyword with the lowest frequency appears only once. Due to the large number of subject keywords and significant differences in frequency, we will sort them in descending order based on their occurrence frequency. Furthermore, we define the coverage of data entries as the dataset, and only when all the subject keywords of these data entries fall within the current range of subject keywords, they are considered part of the dataset.
+            
+            <ve-media anno-base="None/None/" src="gh:weihungtseng/program-juncture/media_source/Table1_Analysis_and_Statistics_of_Subject_Keywords.png"></ve-media>
             <div>
 .ve-media gh:weihungtseng/program-juncture/media_source/Table1_Analysis_and_Statistics_of_Subject_Keywords.png
             </div>
