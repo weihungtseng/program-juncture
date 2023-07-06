@@ -1,6 +1,5 @@
 # Hello, Juncture
 
-<body>
 This Juncture essay illustrates the use of a few Markdown formatting tags and the incorporation of an image and a map into a Juncture essay.
 <br><br>
 
@@ -59,7 +58,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
     <!--example-->
     <ve-media anno-base="None/None/" caption="Dynamic image" left src="wc:The_Bug_Peek.jpg"></ve-media>
 </div>
-</body>
+
 
 
 ## Aulacophora indica
