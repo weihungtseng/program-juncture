@@ -52,8 +52,9 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <details style="border: 1px solid #000; padding: 10px; background-color: #DFECFF;">
         <summary><h3 style="text-align: center;">Procedure</h3></summary>
         <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">After analyzing the dataset, we found that there are 191,478 usable data entries. Each entry has at least one subject keyword, with a total of 66,548 subject keywords distributed among them. The subject keyword with the highest frequency appears 5,085 times, while the subject keyword with the lowest frequency appears only once. Due to the large number of subject keywords and significant differences in frequency, we will sort them in descending order based on their occurrence frequency. Furthermore, we define the coverage of data entries as the dataset, and only when all the subject keywords of these data entries fall within the current range of subject keywords, they are considered part of the dataset.
-            
+            <div>
 .ve-media gh:weihungtseng/program-juncture/media_source/Table1_Analysis_and_Statistics_of_Subject_Keywords.png
+            </div>
 
 In this study, BERT technology was applied, using a pre-trained model for fine-tuning. During training, different combinations of the first three digits of the call number, book title, and author were attempted as the text input, while the subject keywords served as labels. The data set was divided into a training set and a test set using the iterative_train_test_split() function from the scikit-multilearn package, with a ratio of nine to one, achieving stratification for multi-label data.
 
@@ -63,14 +64,8 @@ Initially, due to the large number of subject keywords, the experiment focused o
     <br>
     
         <details style="border: 1px solid #000; padding: 10px; background-color: #DFECFF;">
-        <summary><h3 style="text-align: center;">Problem to be solved</h3></summary>
-        <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the BERT distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
-    </details>
-    <br>
-    
-        <details style="border: 1px solid #000; padding: 10px; background-color: #DFECFF;">
-        <summary><h3 style="text-align: center;">Problem to be solved</h3></summary>
-        <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the BERT distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
+        <summary><h3 style="text-align: center;">Conclusion</h3></summary>
+        <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
     </details>
     <br>
     <!--example-->
