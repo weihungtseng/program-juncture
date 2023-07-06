@@ -19,7 +19,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         height: 20%;
     }
     
-    table th, td {
+    table tr, td {
         border: 0;
     }
 </style>
@@ -32,7 +32,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <div style="padding: 10px; background-color: #9ACEEB;">
     <br>
     <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
-    <table style="width: 85%;" align="center">
+    <table style="width: 85%; " align="center"  border: 0;>
         <tr>
               <td style="width: 10%; height: 10%" align="center" valign="center">
                   <ve-media anno-base="None/None/" src="gh:weihungtseng/program-juncture/media_source/NTNU_School_Badge.png"></ve-media>
