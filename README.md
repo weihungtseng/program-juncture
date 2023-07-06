@@ -36,9 +36,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
     <table style="width: 85%;" align="center">
         <tr>
               <td style="width: 15%; height: 10%" align="center" valign="center">
-                  <img src="gh:./media_source/NTNU_School_Badge.png" alt="NTNU School Badge" width=10% height=10%>
                   <ve-media anno-base="None/None/" src="gh:weihungtseng/program-juncture/media_source/NTNU_School_Badge.png"></ve-media>
-.ve-media gh:weihungtseng/program-juncture/media_source/NTNU_School_Badge.png
               </td>
               <td>
                   <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
