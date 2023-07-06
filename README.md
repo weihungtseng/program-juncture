@@ -22,8 +22,8 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <div style="padding: 10px; background-color: #9ACEEB;">
     <br>
     <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
-.ve-media gh:weihungtseng/juncture-media/picture/NTNU_School_Badge.png left
-    <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
+    <ve-media anno-base="None/None/" src="gh:weihungtseng/juncture-media/picture/NTNU_School_Badge.png"></ve-media>
+    <h4><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
     <h4 style="text-align: left;"><span class="textColor1">Graduate Institute Of Library & Information Studies</span></h4>
     <h4 style="text-align: left;"><span class="textColor1">National Taiwan Normal University</span></h4>
     <br>
