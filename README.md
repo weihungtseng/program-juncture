@@ -42,7 +42,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         -->
         <tr>
               <td style="width: 15%; height: 10%" align="center" valign="center">
-                  <img src="../../" alt="NTNU School Badge">
+                  <img src="../../../juncture-media/picture/NTNU_School_Badge.png" alt="NTNU School Badge">
               </td>
               <td>
                   <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
