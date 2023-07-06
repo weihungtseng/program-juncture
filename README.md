@@ -43,7 +43,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <tr>
               <td style="width: 15%; height: 10%" align="center" valign="center">
                   <!--<img src="https://github.com/weihungtseng/juncture-media/picture/NTNU_School_Badge.png" alt="NTNU School Badge" width=10% height=10%>-->
-                  [NTNU School Badge](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fzh%2Fthumb%2Fc%2Fc3%2FNational_Taiwan_Normal_University_logo.svg%2F1200px-National_Taiwan_Normal_University_logo.svg.png&tbnid=HXnoMzzReWOx-M&vet=12ahUKEwjbkInUrvr_AhU7H94AHRUnDVYQMygBegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fzh.wikipedia.org%2Fzh-tw%2F%25E5%259C%258B%25E7%25AB%258B%25E8%2587%25BA%25E7%2581%25A3%25E5%25B8%25AB%25E7%25AF%2584%25E5%25A4%25A7%25E5%25AD%25B8&docid=-jvmY5GMm8cXEM&w=1200&h=1200&q=%E5%B8%AB%E5%A4%A7logo%20png&ved=2ahUKEwjbkInUrvr_AhU7H94AHRUnDVYQMygBegUIARC8AQ)
+                  ![NTNU School Badge](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fzh%2Fthumb%2Fc%2Fc3%2FNational_Taiwan_Normal_University_logo.svg%2F1200px-National_Taiwan_Normal_University_logo.svg.png&tbnid=HXnoMzzReWOx-M&vet=12ahUKEwjbkInUrvr_AhU7H94AHRUnDVYQMygBegUIARC8AQ..i&imgrefurl=https%3A%2F%2Fzh.wikipedia.org%2Fzh-tw%2F%25E5%259C%258B%25E7%25AB%258B%25E8%2587%25BA%25E7%2581%25A3%25E5%25B8%25AB%25E7%25AF%2584%25E5%25A4%25A7%25E5%25AD%25B8&docid=-jvmY5GMm8cXEM&w=1200&h=1200&q=%E5%B8%AB%E5%A4%A7logo%20png&ved=2ahUKEwjbkInUrvr_AhU7H94AHRUnDVYQMygBegUIARC8AQ)
               </td>
               <td>
                   <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
