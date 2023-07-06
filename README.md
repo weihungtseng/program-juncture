@@ -23,7 +23,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         border-collapse: collapse;
     }
     
-    table th, td {
+    table td {
         border: none;
     }
 </style>
