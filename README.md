@@ -13,9 +13,8 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         color: #0D00C0;
     }
     
-    tr, td {
-        display: none;
-       
+    table th, td {
+        border: hidden;
     }
 </style>
 
