@@ -13,12 +13,8 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         color: #0D00C0;
     }
     
-    table {
-        border-collapse: collapse;
-    }
-    
-    table th, td {
-        border: hidden;
+    .no-border {
+        border: none;
     }
 </style>
 
@@ -32,10 +28,10 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
     <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
     <table style="width: 85%; " align="center">
         <tr>
-              <td style="width: 10%; height: 10%" align="center" valign="center">
+              <td class="no-border" style="width: 10%; height: 10%" align="center" valign="center">
                   <ve-media anno-base="None/None/" src="gh:weihungtseng/program-juncture/media_source/NTNU_School_Badge.png"></ve-media>
               </td>
-              <td>
+              <td class="no-border" >
                   <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
                   <h4 style="text-align: left;"><span class="textColor1">Graduate Institute Of Library & Information Studies</span></h4>
                   <h4 style="text-align: left;"><span class="textColor1">National Taiwan Normal University</span></h4>
