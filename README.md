@@ -18,7 +18,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
     }
     
     table th, td {
-        border: none;
+        border: hidden;
     }
 </style>
 
