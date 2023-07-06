@@ -62,6 +62,8 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the BERT distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
     </details>
     <br>
+    <!--example-->
+    <ve-media anno-base="None/None/" caption="Dynamic image" left src="wc:The_Bug_Peek.jpg"></ve-media>
 </div>
 
 
