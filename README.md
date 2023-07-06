@@ -39,7 +39,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <tr>
               <td> <ve-media class="pictureSize1" anno-base="None/None/" src="gh:weihungtseng/juncture-media/picture/NTNU_School_Badge.png"></ve-media></td>
               <td>
-                  <h4 style="text-align: right;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
+                  <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
                   <h4 style="text-align: left;"><span class="textColor1">Graduate Institute Of Library & Information Studies</span></h4>
                   <h4 style="text-align: left;"><span class="textColor1">National Taiwan Normal University</span></h4>
               </td>
