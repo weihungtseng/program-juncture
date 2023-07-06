@@ -32,7 +32,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <div style="padding: 10px; background-color: #9ACEEB;">
     <br>
     <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
-    <table style="width: 90%;" align="center">
+    <table style="width: 80%;" align="center">
         <!--
         <tr>
               <th>Header 1</th>
