@@ -36,20 +36,20 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     .divStyle1{
         width:100%;
         height:100%;
-        background: -webkit-radial-gradient (circle,#6EDEFF,#6E77FF,#40A6FF);
-        background: -o-radial-gradient          (circle,#6EDEFF,#6E77FF,#40A6FF);
-        background: -moz-radial-gradient     (circle,#6EDEFF,#6E77FF,#40A6FF);
-        background: radial-gradient               (circle,#6EDEFF,#6E77FF,#40A6FF);
+        background: -webkit-radial-gradient(circle,#6EDEFF,#6E77FF,#40A6FF);
+        background: -o-radial-gradient(circle,#6EDEFF,#6E77FF,#40A6FF);
+        background: -moz-radial-gradient(circle,#6EDEFF,#6E77FF,#40A6FF);
+        background: radial-gradient(circle,#6EDEFF,#6E77FF,#40A6FF);
         padding: 10px;
         <!-- background-color: #9ACEEB; -->
         <!-- background-color: #FFCE9C; -->
     }
     
     .titleTextStyle {
-        background: -webkit-linear-gradient (left top,#000066,#0099cc);
-        background: -o-linear-gradient          (bottom right,#000066,#0099cc);
-        background: -moz-linear-gradient     (bottom right,#000066,#0099cc);
-        background: linear-gradient               (to bottom right,#000066,#0099cc);
+        background: -webkit-linear-gradient(left top,#000066,#0099cc);
+        background: -o-linear-gradient(bottom right,#000066,#0099cc);
+        background: -moz-linear-gradient(bottom right,#000066,#0099cc);
+        background: linear-gradient(to bottom right,#000066,#0099cc);
         background-clip: text;
        -webkit-background-clip: text;
        color: transparent;
