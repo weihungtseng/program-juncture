@@ -68,10 +68,10 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     .detailsStyle1 {
         border: 2px solid #000;
         padding: 10px;
-        background: -webkit-linear-gradient(left top,#ccccff,#cc00ff);
-        background: -o-linear-gradient(bottom right,#ccccff,#cc00ff);
-        background: -moz-linear-gradient(bottom right,#ccccff,#cc00ff);
-        background: linear-gradient(to bottom right,#ccccff,#cc00ff);
+        background: -webkit-linear-gradient(left top,#76EEFF,#E6B2FF);
+        background: -o-linear-gradient(bottom right,#76EEFF,#E6B2FF);
+        background: -moz-linear-gradient(bottom right,#76EEFF,#E6B2FF);
+        background: linear-gradient(to bottom right,#76EEFF,#E6B2FF);
         <!-- background-color: #DFECFF; -->
     }
     
