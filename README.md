@@ -52,6 +52,15 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     .summaryTextStyle {
         text-align: center;
     }
+    
+    .circle{
+        width:100%;
+        height:100%;
+        background: -webkit-radial-gradient(circle,#00ffff,#0066ff);
+        background: -o-radial-gradient(circle,#00ffff,#0066ff);
+        background: -moz-radial-gradient(circle,#00ffff,#0066ff);
+        background: radial-gradient(circle,#00ffff,#0066ff);
+    }
 </style>
 
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
