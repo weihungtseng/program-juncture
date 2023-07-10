@@ -76,7 +76,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     }
     
     .summaryTextStyle {
-        text-align: center;
+        
         background: -webkit-linear-gradient(left top,#3C00FF,#9E80FF);
         background: -o-linear-gradient(bottom right,#3C00FF,#9E80FF);
         background: -moz-linear-gradient(bottom right,#3C00FF,#9E80FF);
