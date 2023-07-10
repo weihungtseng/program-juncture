@@ -29,6 +29,7 @@ The map is centered on the Chitwan National Park in Nepal, which is the location
 An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.``
+<br>
 
 ## Implement : ALA Annual Conference 2023 - Poster
 <style>
