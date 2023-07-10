@@ -29,7 +29,7 @@ The map is centered on the Chitwan National Park in Nepal, which is the location
 An alternative to using a Wikidata identifier for map positioning is to use regular latitude and longitude coordinates.  In that approach the QID would be replaced with the coordinates `27.5,84.333`, resulting in an identical map.
 
 Similar to the image viewer, map zooming is controlled using the buttons located in the top-left corner of the map viewer.  Panning is performed with the keyboard arrow keys or by mouse click-and-drag.``
-<br>
+
 
 ## Implement : ALA Annual Conference 2023 - Poster
 <style>
@@ -70,7 +70,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
               <td style="border: none;" >
                   <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
                   <h4 style="text-align: left;"><span class="textColor1">Graduate Institute Of Library & Information Studies</span></h4>
-                  <h4 style="text-align: left;"><span class="textColor1">National Taiwan Normal University</span></h4>
+                  <h4 style="text-align: left;"><span class="textColor1"><a> href="https://en.ntnu.edu.tw/index.php">National Taiwan Normal University</a></span></h4>
               </td>
         </tr>
     </table>
@@ -118,3 +118,5 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     </details>
     <br>
 </div>
+
+## Location of NTNU
