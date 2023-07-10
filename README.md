@@ -56,7 +56,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <ve-media anno-base="None/None/" src="gh:weihungtseng/juncture-media/picture/Analysis_and_Statistics_of_Subject_Keywords.png"></ve-media>
 
         <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">In this study, BERT technology was applied, using a pre-trained model for fine-tuning. During training, different combinations of the first three digits of the call number, book title, and author were attempted as the text input, while the subject keywords served as labels. The data set was divided into a training set and a test set using the iterative_train_test_split() function from the scikit-multilearn package, with a ratio of nine to one, achieving stratification for multi-label data.
-        <br>
+        <br><br><br>
         <p style="border: 1px solid #000; padding: 10px; background-color: #EEF5FF;">Initially, due to the large number of subject keywords, the experiment focused on the top 50 subject keywords with the highest occurrence frequency. The data set consisted of records covered by these subject keywords, and training experiments were conducted using the text input as the call number. Finally, the distilbert-base-multilingual-cased model, which performed better, was selected as the model for subsequent experiments. This model is capable of handling multilingual classification tasks.
 
     </details>
