@@ -124,4 +124,4 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14461.971718423109!2d121.5397518!3d25.0173405!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a989fe322ea9%3A0x21750404ee1d7f66!2z5ZyL56uL5Y-w54Gj5aSn5a24!5e0!3m2!1szh-TW!2sus!4v1689006321847!5m2!1szh-TW!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" ></iframe>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1BXTMH6i0sPslcztZ1dDAM-8d_vw&hl=en_US&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7230.57983236!2d121.5293023!3d25.0242335!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9854425be61%3A0xc79998efecaf0634!2sNational%20Taiwan%20Normal%20University!5e0!3m2!1sen!2sus!4v1689007185372!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
