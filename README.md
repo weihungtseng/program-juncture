@@ -85,7 +85,6 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         <div>
             <ve-media anno-base="None/None/" src="gh:weihungtseng/juncture-media/picture/The_result_of_the_experiment.png"></ve-media>
         </div>
-        
     </details>
     <br>
     
