@@ -33,6 +33,18 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 ## Implement : ALA Annual Conference 2023 - Poster
 <style>
+    .divStyle1{
+        width:100%;
+        height:100%;
+        background: -webkit-radial-gradient(circle,#00ffff,#0066ff);
+        background: -o-radial-gradient(circle,#00ffff,#0066ff);
+        background: -moz-radial-gradient(circle,#00ffff,#0066ff);
+        background: radial-gradient(circle,#00ffff,#0066ff);
+        padding: 10px;
+        background-color: #9ACEEB;
+        <!-- background-color: #FFCE9C; -->
+    }
+    
     .textColor1 {
         color: #0D00C0;
     }
@@ -52,23 +64,11 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     .summaryTextStyle {
         text-align: center;
     }
-    
-    .circle{
-        width:100%;
-        height:100%;
-        background: -webkit-radial-gradient(circle,#00ffff,#0066ff);
-        background: -o-radial-gradient(circle,#00ffff,#0066ff);
-        background: -moz-radial-gradient(circle,#00ffff,#0066ff);
-        background: radial-gradient(circle,#00ffff,#0066ff);
-    }
 </style>
 
 .ve-media gh:weihungtseng/media/picture/ALA_Annual_Conference_2023.png
 
-<!--
-<div style="padding: 10px; background-color: #FFCE9C;">
--->
-<div style="padding: 10px; background-color: #9ACEEB;">
+<div class="divStyle1">
     <br>
     <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
     <table style="width: 85%; border: none" align="center">
