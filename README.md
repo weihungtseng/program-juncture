@@ -82,6 +82,9 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
         
         <p class="paragraphStyle1">In the subsequent experiments, various combinations of Text were tested, using data sets covered by the top 0.07%, 0.15%, 0.45%, 1%, 2%, 5%, and 10% of subject keywords respectively. The reason for not selecting 15%, 20%, and 25% is that the newly added subject keyword samples were too few, with minimum occurrence counts lower than 10.
 
+        <div>
+            <ve-media anno-base="None/None/" src="gh:weihungtseng/juncture-media/picture/The_result_of_the_experiment.png"></ve-media>
+        </div>
         
     </details>
     <br>
