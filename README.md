@@ -38,8 +38,8 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         height:100%;
         background: -webkit-radial-gradient(circle,#00ffff,#C38EFF,#00ccff);
         background: -o-radial-gradient(circle,#00ffff,#C38EFF,#00ccff);
-        background: -moz-radial-gradient(circle,#00ffff,#003399,#00ccff);
-        background: radial-gradient(circle,#00ffff,#003399,#00ccff);
+        background: -moz-radial-gradient(circle,#00ffff,#C38EFF,#00ccff);
+        background: radial-gradient(circle,#00ffff,#C38EFF,#00ccff);
         padding: 10px;
         <!-- background-color: #9ACEEB; -->
         <!-- background-color: #FFCE9C; -->
