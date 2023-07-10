@@ -46,10 +46,10 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     }
     
     .titleTextStyle {
-        background: -webkit-linear-gradient(left top,yellow,red);
-        background: -o-linear-gradient(bottom right,yellow,red);
-        background: -moz-linear-gradient(bottom right,yellow,red);
-        background: linear-gradient(to bottom right,yellow,red);
+        background: -webkit-linear-gradient(left top,#003366,#0099cc);
+        background: -o-linear-gradient(bottom right,#003366,#0099cc);
+        background: -moz-linear-gradient(bottom right,#003366,#0099cc);
+        background: linear-gradient(to bottom right,#003366,#0099cc);
         background-clip: text;
        -webkit-background-clip: text;
        color: transparent;
