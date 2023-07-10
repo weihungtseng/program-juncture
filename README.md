@@ -38,18 +38,18 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         height:100%;
         background: -webkit-radial-gradient (circle,#954EFF,#FF4DBE,#00ccff);
         background: -o-radial-gradient          (circle,#954EFF,#FF4DBE,#00ccff);
-        background: -moz-radial-gradient(circle,#954EFF,#FF4DBE,#00ccff);
-        background: radial-gradient(circle,#954EFF,#FF4DBE,#00ccff);
+        background: -moz-radial-gradient     (circle,#954EFF,#FF4DBE,#00ccff);
+        background: radial-gradient               (circle,#954EFF,#FF4DBE,#00ccff);
         padding: 10px;
         <!-- background-color: #9ACEEB; -->
         <!-- background-color: #FFCE9C; -->
     }
     
     .titleTextStyle {
-        background: -webkit-linear-gradient(left top,#000066,#0099cc);
-        background: -o-linear-gradient(bottom right,#000066,#0099cc);
-        background: -moz-linear-gradient(bottom right,#000066,#0099cc);
-        background: linear-gradient(to bottom right,#000066,#0099cc);
+        background: -webkit-linear-gradient (left top,#000066,#0099cc);
+        background: -o-linear-gradient          (bottom right,#000066,#0099cc);
+        background: -moz-linear-gradient     (bottom right,#000066,#0099cc);
+        background: linear-gradient               (to bottom right,#000066,#0099cc);
         background-clip: text;
        -webkit-background-clip: text;
        color: transparent;
