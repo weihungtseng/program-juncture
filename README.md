@@ -75,7 +75,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         background-clip: text;
        -webkit-background-clip: text;
        color: transparent;
-        background-color: #DFECFF;
+        <!-- background-color: #DFECFF; -->
     }
     
     .summaryTextStyle {
