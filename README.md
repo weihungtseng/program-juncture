@@ -41,7 +41,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         background: -moz-radial-gradient(circle,#00ffff,#00ccff);
         background: radial-gradient(circle,#00ffff,#00ccff);
         padding: 10px;
-        background-color: #9ACEEB;
+        
         <!-- background-color: #FFCE9C; -->
     }
     
