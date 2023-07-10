@@ -45,6 +45,16 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         <!-- background-color: #FFCE9C; -->
     }
     
+    .titleTextStyle {
+        background: -webkit-linear-gradient(left top,yellow,red);
+        background: -o-linear-gradient(bottom right,yellow,red);
+        background: -moz-linear-gradient(bottom right,yellow,red);
+        background: linear-gradient(to bottom right,yellow,red);
+        background-clip: text;
+       -webkit-background-clip: text;
+       color: transparent;
+    }
+    
     .textColor1 {
         color: #0D00C0;
     }
@@ -70,7 +80,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 <div class="divStyle1">
     <br>
-    <h1 style="text-align: center;"><span class="textColor1">Subject Heading Prediction based on the BERT Model</span></h1>
+    <h1 style="text-align: center;"><span class="titleTextStyle">Subject Heading Prediction based on the BERT Model</span></h1>
     <table style="width: 85%; border: none" align="center">
         <tr style="border: none;">
               <td style="width: 10%; height: 10%; border: none;" align="center" valign="center">
