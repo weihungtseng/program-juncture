@@ -150,5 +150,5 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 Fly to ==NTNU=={flyto:Q706712}
 
 .ve-map Q60 8 right
-    - Q90
-Fly to ==Paris=={flyto:Q90}
+    - Q1755318
+Fly to ==Paris=={flyto:Q706712}
