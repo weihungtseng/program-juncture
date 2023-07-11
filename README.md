@@ -4,9 +4,9 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 <br><br>
 
 ## Official tutorial
-[Juncture home page](https://www.juncture-digital.org/)
+> [Juncture home page](https://www.juncture-digital.org/)
 <br>
-[Wikidata home page](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+> [Wikidata home page](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 <br><br>
 
 ## Example
