@@ -154,3 +154,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 </ve-map>
 <p>Fly to <mark flyto="Q90">Paris</mark></p>
 
+.ve-map Q60 8 right
+    - Q90
+Fly to ==Paris=={flyto:Q90}
+
