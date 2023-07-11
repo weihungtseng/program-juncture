@@ -147,7 +147,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 ## Location of NTNU
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7230.57983236!2d121.5293023!3d25.0242335!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a9854425be61%3A0xc79998efecaf0634!2sNational%20Taiwan%20Normal%20University!5e0!3m2!1sen!2sus!4v1689007185372!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" gestureHandling: 'greedy'></iframe>
 
-.ve-map Q60 12 width=100% height=100%
+.ve-map Q60 12 width=100% height=50%
     - Q1755318
 Fly to ==NTNU=={flyto:Q706712}
 
