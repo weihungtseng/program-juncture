@@ -5,6 +5,7 @@ This Juncture essay illustrates the use of a few Markdown formatting tags and th
 
 ## Official tutorial
 [Juncture home page](https://www.juncture-digital.org/)
+<br>
 [Wikidata home page](https://www.wikidata.org/wiki/Wikidata:Main_Page)
 <br><br>
 
