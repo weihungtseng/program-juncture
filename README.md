@@ -146,7 +146,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 
 ## Location of NTNU
 Fly to ==NTNU=={flyto:Q706712}
-.ve-map Q1755318 12 height=200px width=50%
+.ve-map Q1755318 15 height=200px width=50%
     - Q706712
 
 
