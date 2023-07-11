@@ -154,14 +154,3 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 </ve-map>
 <p>Fly to <mark flyto="Q90">Paris</mark></p>
 
-<ve-footer>
-    <ul>
-        <li>
-            <a href="https://juncture-digital.org">Powered by:
-            <img alt src="https://juncture-digital.github.io/juncture/static/images/juncture-logo.png"></a> 
-        </li>
-        <li>
-            view-code
-        </li>
-    </ul>
-</ve-footer>
