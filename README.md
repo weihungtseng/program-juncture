@@ -103,8 +103,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     <br>
     <details class="detailsStyle1">
         <summary><h3 class="summaryTextStyle">Motivation</h3></summary>
-        <p class="paragraphStyle1">
-            Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
+        <p class="paragraphStyle1">Cataloging is an essential part of the mission of the libraries, as the collection serves as a carrier of knowledge, so the users can effectively retrieve and utilize this knowledge. Automatic classification technologies have been introduced to the library technical services to enhance efficiency and improve inconsistency in cataloging.
         </p>
     </details>
     
