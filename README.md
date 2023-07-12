@@ -159,7 +159,8 @@ Fly to ==NTNU=={flyto:Q706712}
   <li>
     <a href=...>All Products</a>
     <button popovertarget=sub-nav>
-     <img src=down-arrow.png alt="Product pages">
+     
+     product pages
     </button>
     <ul popover id=sub-nav>
      <li><a href=...>Shirts</a>
