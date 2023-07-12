@@ -154,21 +154,3 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 Fly to ==NTNU=={flyto:Q706712}
 .ve-map Q1755318 17 height=200px width=50%
     - Q706712
-    
-<ul>
-  <li>
-    <a href=...>All Products</a>
-    <button popovertarget=sub-nav>
-     
-     product pages
-    </button>
-    <ul popover id=sub-nav>
-     <li><a href=...>Shirts</a>
-     <li><a href=...>Shoes</a>
-     <li><a href=...>Hats etc.</a>
-    </ul>
-  </li>
-  <!-- other list items and links here -->
-</ul>
-
-
