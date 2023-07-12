@@ -145,7 +145,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     
     <details class="detailsStyle1">
         <summary><h3 class="summaryTextStyle">Conclusion</h3></summary>
-        <p class="paragraphStyle1">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F<sup id="fnref:1"><a href="#fn:1">1</a></sup> score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
+        <p class="paragraphStyle1">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F<sup id="fnref:1"><a href="https://www.juncture-digital.org/weihungtseng/program-juncture/#fn:1">1</a></sup> score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
         </p>
         <section class="footnote">
             <hr>
@@ -154,7 +154,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
                         <p>Micro-F: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained
                             <a href="https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f" target="_blank">https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f</a> 
                             &nbsp;
-                            <a href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a>
+                            <a href="https://www.juncture-digital.org/weihungtseng/program-juncture/#fnref:1" title="Jump back to footnote 1 in the text">↩</a>
                         </p>
                     </li>
                 </ol>
