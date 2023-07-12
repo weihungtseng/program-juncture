@@ -146,7 +146,24 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     <details class="detailsStyle1">
         <summary><h3 class="summaryTextStyle">Conclusion</h3></summary>
         <p class="paragraphStyle1">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        <sup id="fnref:1">
+            <a class="footnote-ref" href="#fn:1">1</a> 
+        </sup>
         </p>
+        <section class="footnote">
+            <hr>
+                <ol>
+                    <li id="fn:1">
+                        <p>Lorem ipsum text obtained from
+                            <a href="https://loremipsum.io/#generator" target="_blank">https://loremipsum.io/#generator</a> 
+                            &nbsp;
+                            <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a>
+                        </p>
+                    </li>
+                </ol>
+        </section>
+        
     </details>
 </div>
 
