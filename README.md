@@ -110,7 +110,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     <br>
     <details class="detailsStyle1">
         <summary><h3 class="summaryTextStyle">Problem to be solved</h3></summary>
-        <p>To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the <mark qid="Q61726893">BERT</mark> distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
+        <p class="paragraphStyle1">To address the actual cataloging needs and problems in libraries, this study used 620,217 titles from the National Taiwan Normal University Library as experiment datasets and trained with the <mark qid="Q61726893">BERT</mark> distilbert-base-multilingual-cased model on different combinations of call number, titles, and authors’ data to make multiple subject cataloging predictions in both Chinese and English languages.
         </p>
     </details>
     
