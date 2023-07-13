@@ -154,7 +154,8 @@ Similar to the image viewer, map zooming is controlled using the buttons located
                         <p>Micro-F: Micro, Macro & Weighted Averages of F1 Score, Clearly Explained
                             <a href="https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f">https://towardsdatascience.com/micro-macro-weighted-averages-of-f1-score-clearly-explained-b603420b292f</a> 
                             &nbsp;
-                            <a href="https://www.juncture-digital.org/weihungtseng/program-juncture/#fnref:1" title="Jump back to footnote 1 in the text">↩</a>
+                            <!-- <a href="https://www.juncture-digital.org/weihungtseng/program-juncture/#fnref:1" title="Jump back to footnote 1 in the text">↩</a> -->
+                            <a href="#" title="">↩</a>
                         </p>
                     </li>
                 </ol>
