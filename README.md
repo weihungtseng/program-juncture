@@ -64,7 +64,6 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     .textStyle2 {
         cursor: pointer;
         color: blue;
-        
     }
     
     .paragraphStyle1 {
