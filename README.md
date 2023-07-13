@@ -57,8 +57,14 @@ Similar to the image viewer, map zooming is controlled using the buttons located
         color: transparent;
     }
     
-    .textColor1 {
+    .textStyle1 {
         color: #0D00C0;
+    }
+    
+    .textStyle2 {
+        cursor: pointer;
+        color: blue;
+        text-decoration: underline;
     }
     
     .paragraphStyle1 {
@@ -93,9 +99,9 @@ Similar to the image viewer, map zooming is controlled using the buttons located
                   <ve-media anno-base="None/None/" src="gh:weihungtseng/program-juncture/media_source/NTNU_School_Badge.png"></ve-media>
               </td>
               <td style="border: none;" >
-                  <h4 style="text-align: left;"><span class="textColor1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
-                  <h4 style="text-align: left;"><span class="textColor1">Graduate Institute Of Library & Information Studies</span></h4>
-                  <h4 style="text-align: left;"><span class="textColor1"><a href="https://en.ntnu.edu.tw/index.php">National Taiwan Normal University</a></span></h4>
+                  <h4 style="text-align: left;"><span class="textStyle1">Huei-Yu Wang   |   Wei-Hung Tseng   |   Yu-Hao Lai   |   Ming-Hsin Phoebe Chiu</span></h4>
+                  <h4 style="text-align: left;"><span class="textStyle1">Graduate Institute Of Library & Information Studies</span></h4>
+                  <h4 style="text-align: left;"><span class="textStyle1"><a href="https://en.ntnu.edu.tw/index.php">National Taiwan Normal University</a></span></h4>
               </td>
         </tr>
     </table>
@@ -145,7 +151,7 @@ Similar to the image viewer, map zooming is controlled using the buttons located
     
     <details class="detailsStyle1">
         <summary><h3 class="summaryTextStyle">Conclusion</h3></summary>
-        <p class="paragraphStyle1">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F <sup><a id="fnref:1" href="#">1</a></sup> score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
+        <p class="paragraphStyle1">From the experiments, it can be concluded that the most suitable BERT model for this study is distilbert-base-multilingual-cased. Among the different Text options, the combination of Book Title and Call Number achieved the best prediction performance. When considering the data set covered by the top 50 subject keywords, the Micro-F <sup><span class=">1</a></sup> score reached 0.8623. In summary, there are two key factors for achieving good performance in predicting subject keywords using BERT. The first factor is the frequency of occurrence (sample size) of the subject keywords, and the second factor is ensuring that the meaning represented by the Text is closely related to the meaning of the subject keywords.
         </p>
         <section class="footnote">
             <hr>
