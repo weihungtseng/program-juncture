@@ -176,6 +176,6 @@ Fly to ==NTNU=={flyto:Q706712}
     - Q706712
     
 ## Introduction Video
-<iframe width="100%" height="100%"
+<iframe width="70%" height="300px"
     src="https://www.youtube.com/watch?v=WIeFdYGbHPw">
 </iframe>
