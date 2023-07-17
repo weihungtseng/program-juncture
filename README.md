@@ -174,3 +174,8 @@ Similar to the image viewer, map zooming is controlled using the buttons located
 Fly to ==NTNU=={flyto:Q706712}
 .ve-map Q1755318 17 height=200px width=50%
     - Q706712
+    
+## Introduction Video
+<iframe width="100%" height="100%"
+    src="https://www.youtube.com/watch?v=WIeFdYGbHPw">
+</iframe>
